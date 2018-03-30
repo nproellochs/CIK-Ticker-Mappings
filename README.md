@@ -6,7 +6,7 @@ The files in this repository map SEC CIK (Central Index Key) numbers to stock ti
 Details
 -------
 
-This repository contains the following dictionary resources in CSV format.
+This repository contains the following resources in CSV format.
 
 -   **NYSE company list** : This table contains a list of CIK numbers and ticker symbols for NYSE companies (companylist_NYSE_2017.csv)
 
